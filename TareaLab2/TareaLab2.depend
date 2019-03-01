@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\andre\documentos\code blocks projects\tarealab2\main.cpp
+	<iostream>
+
+1551464537 source:c:\users\andre\documentos\code blocks projects\tarealab2\src\nodo.cpp
+	"Nodo.h"
+
+1551464030 c:\users\andre\documentos\code blocks projects\tarealab2\include\nodo.h
+	<iostream>
+

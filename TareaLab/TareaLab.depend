@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1550821873 source:c:\users\andre\documentos\code blocks projects\tarealab\src\addition.cpp
+	"Addition.h"
+
+1550822082 c:\users\andre\documentos\code blocks projects\tarealab\include\addition.h
+	"ArithmeticExpression.h"
+
+1550822090 c:\users\andre\documentos\code blocks projects\tarealab\include\arithmeticexpression.h
+	"Expression.h"
+
+1550822107 c:\users\andre\documentos\code blocks projects\tarealab\include\expression.h
+
+1550856076 source:c:\users\andre\documentos\code blocks projects\tarealab\main.cpp
+	<iostream>
+	"Parsing.h"
+	<string>
+
+1550822122 c:\users\andre\documentos\code blocks projects\tarealab\include\number.h
+	"Expression.h"
+
+1550822069 source:c:\users\andre\documentos\code blocks projects\tarealab\src\arithmeticexpression.cpp
+	"ArithmeticExpression.h"
+
+1550821892 source:c:\users\andre\documentos\code blocks projects\tarealab\src\expression.cpp
+	"Expression.h"
+
+1550821906 source:c:\users\andre\documentos\code blocks projects\tarealab\src\number.cpp
+	"Number.h"
+
+1550822136 c:\users\andre\documentos\code blocks projects\tarealab\include\substraction.h
+	"ArithmeticExpression.h"
+
+1550821918 source:c:\users\andre\documentos\code blocks projects\tarealab\src\substraction.cpp
+	"Substraction.h"
+
+1550822115 c:\users\andre\documentos\code blocks projects\tarealab\include\multiplication.h
+	"ArithmeticExpression.h"
+
+1550821899 source:c:\users\andre\documentos\code blocks projects\tarealab\src\multiplication.cpp
+	"Multiplication.h"
+
+1550821883 source:c:\users\andre\documentos\code blocks projects\tarealab\src\division.cpp
+	"Division.h"
+
+1550822096 c:\users\andre\documentos\code blocks projects\tarealab\include\division.h
+	"ArithmeticExpression.h"
+
+1550886618 c:\users\andre\documentos\code blocks projects\tarealab\include\parsing.h
+	<sstream>
+	<string>
+	<iostream>
+	<stdlib.h>
+	"Number.h"
+	"Addition.h"
+	"Substraction.h"
+	"Multiplication.h"
+	"Division.h"
+	"Expression.h"
+
+1551322844 source:c:\users\andre\documentos\code blocks projects\tarealab\src\parsing.cpp
+	"Parsing.h"
+
